@@ -1,0 +1,27 @@
+[
+    {
+        "text": "I saw a dog in the park.",
+        "image": "dog_jpeg",
+        "expected": true
+    },
+    {
+        "text": "A butterfly is on the flower.",
+        "image": "butterfly_jpg",
+        "expected": false
+    },
+    {
+        "text": "A cat is sleeping on the couch.",
+        "image": "dog_jpeg",
+        "expected": false
+    },
+    {
+        "text": "An elephant and a horse are walking together.",
+        "image": "horse_jpeg",
+        "expected": true
+    },
+    {
+        "text": "A spider is in the corner.",
+        "image": "bird_jpg",
+        "expected": false
+    }
+]

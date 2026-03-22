@@ -1,13 +1,12 @@
 **/__pycache__/
 *.pyc
+.DS_Store
+**/.DS_Store
 
 # Task 1 — MNIST Classification
 mnist-classification/data/
 mnist-classification/.gitignore
 
 # Task 2 — NER + Image Classification
-named-entity-recognition+image-classification/Image_Classification/data/augmented-img/
-named-entity-recognition+image-classification/Image_Classification/data/processed-img/
-named-entity-recognition+image-classification/Image_Classification/data/raw-img/
-named-entity-recognition+image-classification/NER/model/pytorch_model.bin
-named-entity-recognition+image-classification/.gitignore
+ner_image_classification/classification/data/
+ner_image_classification/models/

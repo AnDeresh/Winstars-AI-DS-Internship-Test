@@ -5,7 +5,7 @@ This repository contains solutions for two Data Science tasks.
 ## Structure
 ```
 ├── mnist-classification/                           # Task 1
-└── named-entity-recognition+image-classification/  # Task 2
+└── ner_image_classification/  # Task 2
 ```
 
 ## Task 1 — MNIST Classification
@@ -21,7 +21,7 @@ See [mnist-classification/README.md](mnist-classification/README.md) for setup a
 
 An ML pipeline that combines NER and image classification to verify whether a text description matches an animal in an image.
 
-See [named-entity-recognition+image-classification/README.md](named-entity-recognition+image-classification/README.md) for setup and usage.
+See [ner_image_classification/README.md](ner_image_classification/README.md) for setup and usage.
 
 ## Requirements
 

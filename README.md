@@ -4,8 +4,8 @@ This repository contains solutions for two Data Science tasks.
 
 ## Structure
 ```
-├── mnist-classification/                           # Task 1
-└── ner_image_classification/  # Task 2
+├── mnist-classification/         # Task 1
+└── ner_image_classification/     # Task 2
 ```
 
 ## Task 1 — MNIST Classification
